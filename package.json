@@ -1,0 +1,25 @@
+{
+  "name": "heritage-version",
+  "version": "1.0.0",
+  "description": "Edish Connect - Heritage Version. Dedicated Tech Teams in India. Built at Your Comfort, Anchored in Heritage.",
+  "main": "index.html",
+  "scripts": {
+    "build": "echo 'Static assets ready for deployment.'",
+    "start": "npx serve ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/swear1style-sketch/heritage-version.git"
+  },
+  "keywords": [
+    "edish-connect",
+    "heritage-version",
+    "dedicated-teams"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/swear1style-sketch/heritage-version/issues"
+  },
+  "homepage": "https://github.com/swear1style-sketch/heritage-version#readme"
+}
