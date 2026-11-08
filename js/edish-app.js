@@ -385,7 +385,7 @@ export default function EdishApp() {
 
   const heroData = {
     title: "Dedicated teams,\nbuilt at your comfort.",
-    subtitle: "Build GCCs and ODCs at your comfort.",
+    subtitle: "Build GCCs and ODCs with precision.",
     action: { label: "Start the conversation", href: "#contact" },
     est: "EST. INDIA",
     edition: "TWO FORCES · ONE DISCIPLINE"
