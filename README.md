@@ -1,6 +1,6 @@
-# Edish Connect — Heritage Version
+# Edish Connect — Heritage Edition
 
-> **Dedicated Tech Teams in India.** Built at Your Comfort, Anchored in Heritage.
+> **Dedicated Tech Teams in India.** Built with Precision, Anchored in Heritage.
 
 High-performance dedicated engineering pods, offshore development centers (ODCs), and sovereign Global Capability Centers (GCCs) in Tier-2 Jaipur, India.
 
@@ -10,7 +10,7 @@ High-performance dedicated engineering pods, offshore development centers (ODCs)
 
 ## Key Features
 
-- **Architectural & Heritage Design System**: Classic typography, editorial layout, and heritage aesthetics powered by `copperplate.css` and `app.bundle.js`.
+- **Architectural & Heritage Design System**: Classical typography, editorial layout, and heritage aesthetics.
 - **Zero-Config Vercel Deployment**: Pre-configured with `vercel.json` for instant, production-grade deployment on Vercel without build steps.
 - **Interactive Visual Staircase**: 4-stage ascending framework (Scoped Agile Pod → Dedicated ODC → Build-Operate-Transfer → Sovereign GCC) with real-time client ownership gauge.
 - **Dynamic Cost & Savings Estimator**: Live headcount, seniority, and model calculations benchmarked against US/EU in-house compensation.
@@ -57,12 +57,11 @@ heritage-version/
 ├── vercel.json          # Vercel deployment configuration
 ├── package.json         # Project metadata & npm scripts
 ├── css/
-│   ├── copperplate.css  # Primary editorial design tokens & layout
-│   └── style.css        # Supplementary styling
+│   └── main.css         # Primary editorial design tokens & layout
 ├── js/
-│   ├── app.bundle.js    # Self-contained bundled application engine
+│   ├── app.js           # Production application runtime
 │   ├── edish-app.js     # Presentation logic
-│   └── copperplate-engine.js
+│   └── landing-engine.js# Interactive presentation engine
 ├── assets/
 │   └── images/          # Campus, team, and architectural imagery
 ├── .gitignore

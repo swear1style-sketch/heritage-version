@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import ReactDOM from 'react-dom/client';
-import { CopperplateLanding as CobaltLanding } from './copperplate-engine.js';
+import { LandingEngine as CobaltLanding } from './landing-engine.js';
 
 // The Edish Connect Official Geometric Emblem SVG
 export function BrandEmblem({ size = 32 }) {

@@ -1,7 +1,7 @@
 {
   "name": "heritage-version",
   "version": "1.0.0",
-  "description": "Edish Connect - Heritage Version. Dedicated Tech Teams in India. Built at Your Comfort, Anchored in Heritage.",
+  "description": "Edish Connect - Heritage Edition. Dedicated Tech Teams in India. Built with Precision, Anchored in Heritage.",
   "main": "index.html",
   "scripts": {
     "build": "echo 'Static assets ready for deployment.'",
