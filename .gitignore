@@ -1,0 +1,12 @@
+# Dependencies & Logs
+node_modules/
+*.log
+
+# System & OS Files
+.DS_Store
+._*
+Thumbs.db
+__MACOSX
+
+# Vercel Deployment
+.vercel/
